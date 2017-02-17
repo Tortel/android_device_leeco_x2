@@ -15,8 +15,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="ambient_display_title">Tampilan ambien</string>
   <string name="ambient_display_summary">Hidupkan layar ketika menerima pemberitahuan</string>
-  <string name="always_enabled_title">Selalu aktif</string>
-  <string name="always_enabled_summary">Mendeteksi aktifitas sensor untuk segera setelah mematikan layar</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Sensor kemiringan</string>
   <string name="pick_up_title">Mengambil</string>

@@ -15,8 +15,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="ambient_display_title">Omgewings temperatuur skerm</string>
   <string name="ambient_display_summary">Skerm sal wakker word wanneer jy kennisgewings ontvang</string>
-  <string name="always_enabled_title">Altyd geaktiveer</string>
-  <string name="always_enabled_summary">Luister vir sensor gebeure so gou as die skerm afskakel word</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Kantel sensor</string>
   <string name="pick_up_title">Optel</string>

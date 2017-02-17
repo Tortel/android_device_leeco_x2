@@ -15,8 +15,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="ambient_display_title">Ambientné zobrazenie</string>
   <string name="ambient_display_summary">Prebudiť obrazovku po prijatí oznámenia</string>
-  <string name="always_enabled_title">Vždy povoliť</string>
-  <string name="always_enabled_summary">Čítať dáta zo senzora, hneď sa obrazovka vypne</string>
   <!-- Tilt sensor -->
   <string name="tilt_sensor_title">Senzor naklonenia</string>
   <string name="pick_up_title">Zdvihnutie</string>
